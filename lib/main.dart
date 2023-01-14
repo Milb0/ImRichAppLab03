@@ -12,7 +12,7 @@ class RichApp extends StatelessWidget {
       home:Scaffold(
         backgroundColor: Colors.white,
         appBar:AppBar(
-          title: Text('I\'m a Rich App'),
+          title: Text('I\'m Rich App'),
         ),
         
         //lazm f pubspec.yaml nzidou ism tasswira f assets field
